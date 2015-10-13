@@ -1,6 +1,6 @@
 {
   "name": "np-diff",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Diff between node_modules folder and package.json",
   "bin": {
     "np-diff": "./index.js"
