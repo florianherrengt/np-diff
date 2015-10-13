@@ -1,0 +1,14 @@
+{
+  "name": "np-diff",
+  "version": "1.0.0",
+  "description": "Diff between node_modules folder and package.json",
+  "bin": {
+    "np-diff": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Florian Herrengt",
+  "license": "ISC"
+}
